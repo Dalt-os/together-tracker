@@ -1,0 +1,8 @@
+{
+  "appId": "com.together.tracker",
+  "appName": "Dai Y Dari",
+  "webDir": "public",
+  "server": {
+    "androidScheme": "https"
+  }
+}
